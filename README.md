@@ -1,2 +1,2 @@
-# Frontend-Ticketera-QR
+# frontend-ticketera-qr
 Frontend del proyecto de Ticketera QR
